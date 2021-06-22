@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "iconv-lite": "^0.6.3",
+    "lodash": "^4.17.21",
+    "mysql2": "^2.2.5",
+    "neat-csv": "^6.0.1",
+    "nodejs-file-downloader": "^4.6.0"
+  }
+}
